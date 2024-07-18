@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm a passionate React developer with 3 years of e
 - **Webpack**
 - **Babel**
 - **Jest & Enzyme**
-- **ESLint & Prettier**
-- **Docker**
+- **ESLint & Prettier** 
 - **VSCode**
 
 ### Other
